@@ -1,0 +1,30 @@
+{
+  "name": "regex-chain",
+  "version": "0.0.1",
+  "description": "Chain regular expressions together",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "should": "latest",
+    "mocha": "latest"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euank/regex-chain.git"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "EuanK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/euank/regex-chain/issues"
+  }
+}
